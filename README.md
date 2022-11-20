@@ -1,5 +1,6 @@
 # 247026
 
+#From previous main
 
 #PART 5
 #Updating the copy
@@ -8,6 +9,12 @@
 
 #making some changes
 
-#some more changes
+#adding some text at the beginning of the second line in the readme in copyA
+
+#adding some text at the beginning of the second line in the readme in copyB
+
+#branch_247026
 
 #some more changes to readme copyB
+
+#changes added after creating a new branch
