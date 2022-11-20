@@ -1,11 +1,5 @@
 # 247026
 
-#adding some text at the beginning of the second line in the readme in copyA
+#PART 5
+Updating the copy
 
-#adding some text at the beginning of the second line in the readme in copyB
-
-#making some changes
-
-#some more changes
-
-#changes after creating new branch
